@@ -1,6 +1,6 @@
 // 나머지 합
 
-package prefixSum;
+package PrefixSum;
 
 import java.util.Scanner;
 

@@ -1,11 +1,10 @@
 // 구간 합 구하기 4
 
-package prefixSum;
+package PrefixSum;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class back11659 {
