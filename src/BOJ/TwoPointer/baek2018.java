@@ -1,6 +1,6 @@
 // 수들의 합 5
 
-package TwoPointer;
+package BOJ.TwoPointer;
 
 import java.util.Scanner;
 

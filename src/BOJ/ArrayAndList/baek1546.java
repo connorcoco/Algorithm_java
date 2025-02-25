@@ -1,4 +1,4 @@
-package ArrayAndList;
+package BOJ.ArrayAndList;
 
 import java.util.*;
 

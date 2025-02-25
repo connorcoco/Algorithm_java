@@ -1,6 +1,6 @@
 // 구간 합 구하기 5
 
-package PrefixSum;
+package BOJ.PrefixSum;
 
 import java.util.Scanner;
 

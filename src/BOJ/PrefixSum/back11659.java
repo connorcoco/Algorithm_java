@@ -1,6 +1,6 @@
 // 구간 합 구하기 4
 
-package PrefixSum;
+package BOJ.PrefixSum;
 
 import java.io.BufferedReader;
 import java.io.IOException;
