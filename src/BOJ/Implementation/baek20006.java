@@ -1,4 +1,4 @@
-// 20006 랭킹전 대기열 / 실버 2 구현
+// week1 : [BOJ / Implement] 20006 (랭킹전 대기열 / 실버 2)
 
 package BOJ.Implementation;
 
