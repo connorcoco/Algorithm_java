@@ -1,6 +1,6 @@
 // week1 : [BOJ / Implement] 1138 (한 줄로 서기 / 실버 2)
 
-package BOJ.Implementation;
+package BOJ_Programmers.Implementation;
 
 import java.io.*;
 import java.util.*;

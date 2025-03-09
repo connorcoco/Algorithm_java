@@ -1,6 +1,6 @@
 // 주몽의 명령
 
-package BOJ.TwoPointer;
+package BOJ_Programmers.TwoPointer;
 
 import java.io.BufferedReader;
 import java.io.IOException;

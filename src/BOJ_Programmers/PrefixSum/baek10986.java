@@ -1,6 +1,6 @@
 // 나머지 합
 
-package BOJ.PrefixSum;
+package BOJ_Programmers.PrefixSum;
 
 import java.util.Scanner;
 

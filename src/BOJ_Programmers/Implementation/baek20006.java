@@ -1,6 +1,6 @@
 // week1 : [BOJ / Implement] 20006 (랭킹전 대기열 / 실버 2)
 
-package BOJ.Implementation;
+package BOJ_Programmers.Implementation;
 
 import java.io.*;
 import java.util.*;

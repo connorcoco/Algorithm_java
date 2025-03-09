@@ -1,6 +1,6 @@
 // week1 : [BOJ / Implement] 14719 (빗물 / 골드 5)
 
-package BOJ.Implementation;
+package BOJ_Programmers.Implementation;
 
 import java.util.*;
 import java.io.*;

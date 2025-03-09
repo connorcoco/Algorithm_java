@@ -1,6 +1,6 @@
 // 좋다
 
-package BOJ.TwoPointer;
+package BOJ_Programmers.TwoPointer;
 
 import java.io.BufferedReader;
 import java.io.IOException;

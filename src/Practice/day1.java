@@ -1,4 +1,4 @@
-package Programmers;
+package Practice;
 
 import java.io.*;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package BOJ.ArrayAndList;
+package BOJ_Programmers.ArrayAndList;
 
 import java.util.Scanner;
 

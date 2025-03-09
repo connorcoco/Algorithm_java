@@ -1,6 +1,6 @@
 // DNA 비밀번호
 
-package BOJ.SlidingWindow;
+package BOJ_Programmers.SlidingWindow;
 
 import java.io.BufferedReader;
 import java.io.IOException;
