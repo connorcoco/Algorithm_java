@@ -1,4 +1,4 @@
-// week2 : [Programmers / Hash] 전화번호 목록 해시로 풀기 (lv2)
+// week2 : [Programmers / Hash] 전화번호 목록 HashMap (lv2)
 
 package BOJ_Programmers.Hash;
 
