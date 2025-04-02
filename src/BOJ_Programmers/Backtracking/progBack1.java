@@ -25,7 +25,7 @@ public class progBack1 {
 
         List<Integer> list = new ArrayList<>(map.keySet());
 
-        list.sort((stage1, stage2) -> Float.compare(map.get(stage2), map.get(stage1)));
+        list.sort((o1, o2) -> Float.compare(map.get(o2), map.get(o1)));
         return list.stream().mapToInt(i->i).toArray();
     }
 }
