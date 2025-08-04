@@ -6,7 +6,7 @@
 
 package programmers;
 
-public class ex80 {
+public class Ex80 {
     public String solution(String s) {
         String[] strArr = s.trim().split("[\\s]");
         int min = 0;
